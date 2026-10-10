@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1789860474710,
+    "titulo": "matematica",
+    "descripcion": "",
+    "categoria": "📚 Estudio",
+    "prioridad": "🔴 Alta",
+    "fecha_limite": null,
+    "completada": false,
+    "fecha_creacion": "2026-09-19T19:27:54.710252"
+  },
+  {
+    "id": 1789859926151,
+    "titulo": "literatura",
+    "descripcion": "milagrossss",
+    "categoria": "📚 Estudio",
+    "prioridad": "🔴 Alta",
+    "fecha_limite": null,
+    "completada": true,
+    "fecha_creacion": "2026-09-19T19:18:46.151647",
+    "fecha_completada": "2026-09-22T14:12:42.706046"
+  },
+  {
+    "id": 1789859800610,
+    "titulo": "tarea de quimica",
+    "descripcion": "",
+    "categoria": "📌 General",
+    "prioridad": "🔴 Alta",
+    "fecha_limite": null,
+    "completada": true,
+    "fecha_creacion": "2026-09-19T19:16:40.610642",
+    "fecha_completada": "2026-09-19T21:21:01.195882"
+  },
+  {
+    "id": 1789859788334,
+    "titulo": "expo de ariel",
+    "descripcion": "",
+    "categoria": "📚 Estudio",
+    "prioridad": "🔴 Alta",
+    "fecha_limite": null,
+    "completada": false,
+    "fecha_creacion": "2026-09-19T19:16:28.334308"
+  },
+  {
+    "id": 1789132974932,
+    "titulo": "guia de 30 preguntas de ariel",
+    "descripcion": "hacer para no quemarse",
+    "categoria": "📚 Estudio",
+    "prioridad": "🔴 Alta",
+    "fecha_limite": null,
+    "completada": true,
+    "fecha_creacion": "2026-09-11T09:22:54.932895",
+    "fecha_completada": "2026-09-19T19:01:54.392577"
+  },
+  {
+    "id": 1788993629291,
+    "titulo": "coralis",
+    "descripcion": "guia,los video",
+    "categoria": "📚 Estudio",
+    "prioridad": "🟢 Baja",
+    "fecha_limite": null,
+    "completada": true,
+    "fecha_creacion": "2026-09-09T18:40:29.291134",
+    "fecha_completada": "2026-09-14T08:57:47.199352"
+  },
+  {
+    "id": 1788993552368,
+    "titulo": "nohelis mapa  y exposicion",
+    "descripcion": "hacerlo",
+    "categoria": "💼 Trabajo",
+    "prioridad": "🔴 Alta",
+    "fecha_limite": "2026-09-09",
+    "completada": true,
+    "fecha_creacion": "2026-09-09T18:39:12.368226",
+    "fecha_completada": "2026-09-13T14:15:01.072397"
+  }
+]
